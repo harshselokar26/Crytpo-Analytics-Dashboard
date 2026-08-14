@@ -345,15 +345,8 @@ Potential future enhancements include:
 
 ---
 
-# 👨‍💻 Author
 
-**Harsh Selokar**
 
-B.Tech — Computer Science & Engineering
-
-Backend / Data Analytics Enthusiast
-
----
 
 ## ⭐ If you found this project useful
 
